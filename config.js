@@ -6,31 +6,31 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '255734980103', process.env.OWNER_NAME || 'lazack28', true],
-  ['255613868502', 'lazack 28', true]
+  [process.env.OWNER_NUMBER || '923263429027', process.env.OWNER_NAME || 'MALIK', true],
+  ['923263429027', 'MALIK', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 v 2'
+global.author = process.env.OWNER_NAME || 'MALIK MEHTAB'
 global.botname = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿'
 global.oname = author
 global.bname = botname
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/Lazack_28'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/m_m.e.h.t.a.b'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/KrJhpZhgKxZLfHcyUZKOMw'
  
 //Apikeys
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 🥵'
-global.stkpack = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿 🥵'
-global.stkowner = process.env.OWNER_NAME || '© lazack md v2'
+global.packname = process.env.BOT_NAME || 'MALIK'
+global.stkpack = process.env.BOT_NAME || 'MEHTAB'
+global.stkowner = process.env.OWNER_NAME || '© MALIK MEHTAB'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with Lazack'
+global.maker = process.env.MAKER || 'Made with MALIK BOT'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
@@ -56,9 +56,9 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['255734980103','255734980103']
-global.prems = ['255734980103','255734980103']
-global.allowed = ['255734980103','255734980103']
+global.mods = ['923263429027','923263429027']
+global.prems = ['923263429027','923263429027']
+global.allowed = ['923263429027','923263429027']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
